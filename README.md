@@ -19,3 +19,13 @@ To make sure this analysis is accurate, I'll be using new query methods like SQL
 • On the other hand, the lowest temperature for both months is 64 and 56 respectively, which can be a bit challenging, especially if W. Avy wants ice cream to be the best seller product of the shop.
 
 <img width="178" alt="Screenshot 2022-11-25 at 13 30 52" src="https://user-images.githubusercontent.com/112814924/204342152-fa32b72a-b359-4cc6-b6c2-d61f09e084a1.png"> <img width="206" alt="Screenshot 2022-11-25 at 13 29 33" src="https://user-images.githubusercontent.com/112814924/204342162-8a84696f-f1e6-4cf7-a0cd-9514f25f02ac.png">
+
+# Summary
+
+The results of this analysis are not so clear whether W. Avy should start the new business or not. 
+
+The main reason is because the highest temperatures of June and December are perfect for the new business and would definitely attract a lot of customers. However, there is a big difference in the lowest temperature results for both months, especially for December, 56 degrees.
+
+I would definitely suggest W. Avy to plot the results for the month of December to see exactly how the weather will affect her business, how many days of the month get very cold, and if she could offer a different product during cold days. Like hot chocolate, maybe? That can also be very attractive to customers.
+
+To help W. Avy further her analysis, I would create a query to find low, high, and average temperatures for the month of December by year and compare the results so she can make a final decision.
